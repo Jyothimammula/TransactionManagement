@@ -11,7 +11,7 @@ public class TranscationManagementApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(TranscationManagementApplication.class, args);
-		System.out.println("first maven project of itellij");
+		System.out.println("first maven project of transcation");
 		
 	}
 
